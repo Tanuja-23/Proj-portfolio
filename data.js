@@ -15,7 +15,7 @@ const portfolioData = {
   name: "Tanuja Karle",
   firstName: "Tanuja",   // Used in the hero greeting
   lastName: "karle",      // Displayed large in the hero section
-  tagline: "AIML Engineering Student",
+  tagline: "Engineering Student",
   resumeLink: "#",        // Link to your resume (Google Drive, etc.)
 
   // ----------------------------------------------------------
